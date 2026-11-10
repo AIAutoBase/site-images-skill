@@ -1,0 +1,9 @@
+{
+  "name": "site-images",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Claude Code skill: generate, review and place images for the site or app you are building.",
+  "engines": { "node": ">=18" },
+  "dependencies": { "sharp": "^0.34.0" }
+}
